@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/phongchu"><img src="https://api.daily.dev/devcards/c9a3289ff5a44d6ca92dc9bffcc62edc.png?r=4ml" width="400" alt="Phong Chu's Dev Card"/></a>
 
 <!--
 **chucamphong/chucamphong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
